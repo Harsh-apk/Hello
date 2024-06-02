@@ -30,7 +30,7 @@ If any user is not connected to the websocket, the backend stores the messages b
 # Snaps
 
 
-| Home Screen                      | Selected Image Screen             |
+| Login Screen                      | Chat Screen             |
 |----------------------------------|-----------------------------------|
 | ![](/snaps/img.png)              | ![](/snaps/img_1.png)             |
 
