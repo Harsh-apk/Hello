@@ -1,4 +1,4 @@
-# Hello App
+# Hello Chat
 
 It is a Native Android Chat App in which you can send messages to multiple users connected to websocket.
 If any user is not connected to the websocket, the backend stores the messages being sent to the offline users and sends all of them when the user comes online.
